@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Laravel](http://laravel.com)
+- 🔭 I’m currently working on [Laravel](http://laravel.com) & [React](https://react.dev/)
 - 🌱 I’m currently learning [Blockchain](https://www.blockchain.com/)
 - 👯 I’m looking to collaborate on [Blog](https://thetechblog.us/)
 - 💬 Ask me about Laravel or any tech related stuff.
